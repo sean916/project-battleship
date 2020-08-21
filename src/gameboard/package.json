@@ -1,0 +1,10 @@
+{
+    "name": "test-runners",
+    "scripts": {
+        "test": "jest",
+        "type": "module"
+    },
+    "dependencies": {
+        "jest": "^26.4.0"
+    }
+}
